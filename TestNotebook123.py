@@ -11,6 +11,10 @@ print("hello world")
 
 # COMMAND ----------
 
+print(11212)
+
+# COMMAND ----------
+
 import random
 
 rand_int = random.randint(1, 100)
